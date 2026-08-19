@@ -41,7 +41,7 @@ void-motion/
 ├── script.js
 └── README.md
 
-🎨 **Design**
+## 🎨 **Design**
 
 The website follows a futuristic and cinematic visual style featuring:
 
@@ -55,11 +55,11 @@ Glowing effects
 Experimental layouts
 🚀 Getting Started
 
-**Clone the repository:**
+## **Clone the repository:**
 
 git clone https://github.com/MaryamKhan15/void-motion.git
 
-**Open the project folder:**
+## **Open the project folder:**
 
 cd void-motion
 
@@ -67,7 +67,7 @@ Then open index.html in your browser.
 
 For the best development experience, use VS Code with Live Server.
 
-📱 **Responsive Design**
+## 📱 **Responsive Design**
 
 The website is optimized for:
 
@@ -80,7 +80,7 @@ GSAP matchMedia() is used to provide different animation behavior for desktop an
 
 Heavy desktop interactions such as the custom cursor are disabled on touch devices to keep the experience smooth.
 
-🎞️ **Animation System**
+## 🎞️ **Animation System**
 
 The project uses GSAP for:
 
@@ -95,11 +95,11 @@ Scroll velocity
 Magnetic interactions
 Responsive animation contexts
 
-🌟 **Purpose**
+## 🌟 **Purpose**
 
 This project was created as an experimental frontend project to explore how far modern JavaScript animation can be pushed while keeping the interface responsive and visually clean.
 
-📌 **Future Improvements**
+## 📌 **Future Improvements**
 
 Add more interactive 3D scenes
 Add WebGL experiments
@@ -107,7 +107,7 @@ Add sound-reactive animations
 Improve mobile animation performance
 Add page transition system
 Add more interactive cursor states
-👩‍💻 **Author**
+## 👩‍💻 **Author**
 
 Maryam Khan
 
