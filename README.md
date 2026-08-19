@@ -95,7 +95,7 @@ Scroll velocity
 Magnetic interactions
 Responsive animation contexts
 
-🌟** Purpose**
+🌟 **Purpose**
 
 This project was created as an experimental frontend project to explore how far modern JavaScript animation can be pushed while keeping the interface responsive and visually clean.
 
